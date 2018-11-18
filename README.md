@@ -1,16 +1,4 @@
-# gamebang
-E-sports introduction base on html5
-项目说明：
-
-本项目旨在通过网页设计的直观展示来呈现国内电子竞技的发展现状以及取得的成果
-项目功能：
-
-轮播界面；导航栏跳转；视频超链接；新闻简述
-
-用途：
-网页设计期末作业-基于php的网页设计实现
-
-请尽情浏览   hope you enjoy it 
-
-  感谢项目指导老师孙林的悉心指导，以及同组伙伴朱家豪同学的积极配合
-
+# ImitateIMOOC
+仿慕课网首页web端，HTML+CSS+JavaScript，其中轮播图采用了myfocus插件<br/>
+预览图如下：
+![image](preview.png)
